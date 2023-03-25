@@ -183,15 +183,19 @@
                         android:textSize="12sp" />
                     <TextView android:id="@+id/humidity" android:layout_width="wrap_content"
                         android:layout_height="wrap_content" android:textSize="14sp"
-                        android:text="06:40 AM"/>
+                        android:text="!!!"/>
                 </LinearLayout>
                 <Space android:layout_width="10dp" android:layout_height="wrap_content"/>
                 <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
                     android:orientation="vertical" android:layout_weight="1"
                     android:gravity="center" android:padding="8dp"
                     android:background="#3CF1EBF1">
-                    <ImageView android:layout_width="25dp" android:layout_height="25dp"
-                        android:src="@drawable/info"
+
+                    <ImageButton
+                        android:layout_width="25dp"
+                        android:layout_height="25dp"
+                        android:foreground="@drawable/heart"
+                        android:background="@null"
                         app:tint="#FFFFFF" />
                     <Space android:layout_width="wrap_content" android:layout_height="5dp"/>
 
