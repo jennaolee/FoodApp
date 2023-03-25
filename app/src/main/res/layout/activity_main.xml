@@ -83,7 +83,7 @@
                     android:gravity="center" android:padding="8dp"
                     android:background="#3CF1EBF1">
                     <ImageView android:layout_width="25dp" android:layout_height="25dp"
-                        android:src="@drawable/sunrise"
+                        android:src="@drawable/dollar"
                         app:tint="#FFFFFF" />
                     <Space android:layout_width="wrap_content" android:layout_height="5dp"/>
 
@@ -106,7 +106,7 @@
                     android:gravity="center" android:padding="8dp"
                     android:background="#3CF1EBF1">
                     <ImageView android:layout_width="25dp" android:layout_height="25dp"
-                        android:src="@drawable/sunset"
+                        android:src="@drawable/utensils"
                         app:tint="#FFFFFF" />
                     <Space android:layout_width="wrap_content" android:layout_height="5dp"/>
 
@@ -125,7 +125,7 @@
                     android:gravity="center" android:padding="8dp"
                     android:background="#3CF1EBF1">
                     <ImageView android:layout_width="25dp" android:layout_height="25dp"
-                        android:src="@drawable/wind"
+                        android:src="@drawable/menu"
                         app:tint="#FFFFFF" />
                     <Space android:layout_width="wrap_content" android:layout_height="5dp"/>
 
@@ -149,7 +149,7 @@
                     android:gravity="center" android:padding="8dp"
                     android:background="#3CF1EBF1">
                     <ImageView android:layout_width="25dp" android:layout_height="25dp"
-                        android:src="@drawable/pressure"
+                        android:src="@drawable/clock"
                         app:tint="#FFFFFF" />
                     <Space android:layout_width="wrap_content" android:layout_height="5dp"/>
 
@@ -181,7 +181,7 @@
                     <ImageView
                         android:layout_width="25dp"
                         android:layout_height="25dp"
-                        android:src="@drawable/humidity"
+                        android:src="@drawable/star"
                         app:tint="#FFFFFF" />
                     <Space android:layout_width="wrap_content" android:layout_height="5dp"/>
 
